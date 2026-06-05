@@ -33,10 +33,15 @@ encountered by cloud support engineers in production environments.
 
 ## Services Used:
 • Amazon ECS with Fargate: Serverless compute engine for containers
+
 • Application Load Balancer (ALB): Routes HTTP/HTTPS traffic to containers
+
 • Amazon CloudWatch: Monitoring and observability for logs and metrics
+
 • AWS IAM: Identity and access management for AWS resources
+
 • Amazon ECR: Container registry for managing and deploying images
+
 • AWS Security Groups: Virtual firewalls controlling network traffic
 
 
